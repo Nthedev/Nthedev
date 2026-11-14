@@ -6,7 +6,7 @@ I enjoy understanding how systems work under the hood, especially around anonymi
 
 ---
 
-### 🧭 Currently exploring 
+###  Currently exploring 
 
 - 🔒 **IT security and ethical hacking**
 - 🕵️ **Privacy, anonymity and threat modeling** 
@@ -16,13 +16,12 @@ I enjoy understanding how systems work under the hood, especially around anonymi
 
 ---
 
-### 🛠️ Projects / Projekte
-*(Note: Some of these are currently work-in-progress or in the planning phase. / Hinweis: Manche dieser Projekte sind noch in Arbeit oder in der Planung.)*
+###  Projects
 
-- **tor-leak-checker** – Helps prevent leaks, when proxying traffic over Tor
+- **[tor-leak-check](https://github.com/Nthedev/tor-leak-check)** – Helps prevent leaks, when proxying traffic over Tor
 
-- **Odin-landing-page** – Landing page I built while doing The Odin Project
+- **[Odin-landing-page](https://nthedev-donut-shop.vercel.app/)** – Landing page I built while doing The Odin Project
 
 ---
 
-📫 **Contact / Kontakt:** 298423039+Nthedev@users.noreply.github.com | 🌍 **Languages:** German, English (Bilingual)
+ **Contact:** 298423039+Nthedev@users.noreply.github.com | 🌍 **Languages:** German, English (Bilingual)
