@@ -24,4 +24,4 @@ I enjoy understanding how systems work under the hood, especially around anonymi
 
 ---
 
- **Contact:** 298423039+Nthedev@users.noreply.github.com | 🌍 **Languages:** German, English (Bilingual)
+ **Contact:** nthedev@duck.com | 🌍 **Languages:** German, English (Bilingual)
